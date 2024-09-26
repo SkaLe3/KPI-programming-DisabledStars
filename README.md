@@ -1,2 +1,2 @@
-# DisabledStars
-First project on OpenGL
+# BreadcrumbsKPI-programming-DisabledStars
+My first project using OpenGL
